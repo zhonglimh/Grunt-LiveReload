@@ -1,0 +1,16 @@
+{
+	"name": "mygrunt",
+	"version": "0.0.1",
+	"description": "no",
+	"main": "Gruntfile.js",
+	"dependencies": {},
+	"devDependencies": {
+		"connect-livereload": "~0.5.3",
+		"grunt-contrib-watch": "~0.6.1"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "www.bluesdream.com",
+	"license": "MIT license"
+}
