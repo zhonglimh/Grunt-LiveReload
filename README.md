@@ -19,8 +19,8 @@
 所以，我把插件提取了出来打包在 `Example 1/ChromePlugins_LiveReload_2.1.0.rar` 。
 
 Chrome Plugins离线安装方法：
-* 解压至Chrome目录：C:\Users\\`Administration`\\AppData\Local\Google\Chrome\User Data\Default\Extensions
-* 设置 - 扩展程序 - 启用LiveReload
+* 打开Chrome设置 - 扩展程序
+* 把解压后的 `jnihajbhpnppcggbcgedagnkighmdlei-2.1.0.crx` 文件拖放至其中
 
 ### Example 2:
 
