@@ -27,11 +27,15 @@ Chrome Plugins离线安装方法：
 ##### grunt-contrib-watch + grunt-contrib-connect + grunt-livereload
 
 安装命令：
-> npm install --save-dev grunt-contrib-watch grunt-contrib-connect connect-livereload
+> npm install --save-dev grunt-contrib-watch grunt-contrib-connect connect-livereload serve-static serve-index
 
 示例中所用到的插件版本：  
 * connect-livereload 0.5.3  
 * grunt-contrib-watch 0.6.1  
-* grunt-contrib-connect 0.10.1
+* grunt-contrib-connect 0.11.2
+* serve-static 1.10.0
+* serve-index 1.7.2
+
+最后更新于：2015-10-12
 
 原文地址：[http://www.bluesdream.com/blog/grunt-plugin-livereload-wysiwyg-editor.html](http://www.bluesdream.com/blog/grunt-plugin-livereload-wysiwyg-editor.html)
